@@ -1,0 +1,18 @@
+PROJECT: Multi-Tool Autonomous AI Agent
+
+DEVELOPER: Tanush Bhatt
+
+TECHNOLOGIES:
+- Python
+- LangChain
+- Google Gemini
+- DuckDuckGo
+
+TOOLS:
+1. Web Search
+2. Python Calculator
+3. Local File Reader
+
+PURPOSE:
+Build an autonomous AI agent that can select
+and execute appropriate tools based on user queries.
